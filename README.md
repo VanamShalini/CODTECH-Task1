@@ -10,7 +10,8 @@ Duration:10th June to 22th July 2024
 
 Mentor:Muzammil
 # Overview of the project
-![Task 1(output)](https://github.com/VanamShalini/CODTECH-Task1/assets/173339234/42b61ee7-a979-4f01-a570-b50e4605fea3)
+![Task1](https://github.com/VanamShalini/CODTECH-Task1/assets/173339234/6f30668e-31a0-4a8e-9ed0-d1224c478a5e)
+
 
 Project: SIMPLE CALCULATOR
 
