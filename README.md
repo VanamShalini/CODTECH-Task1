@@ -23,9 +23,7 @@ Methodology of simple calculation: A simple calculator function by placing the i
 Key activities:
 
 Define arithmetic function:define four function for basic arithmetic operations.
-
 User input:prompt the user to enter two number and operation to perform.
-
 Call appropriate function:used a condition statements to call function based on user input.
 
 Result:displays the result operation of the user.
